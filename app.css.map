@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/app.scss"],
+  "sourcesContent": ["main {\n  opacity: 1;\n  transition: opacity 0.6s ease;\n}\n"],
+  "mappings": ";AAAA;AACE,WAAA;AACA,cAAA,QAAA,KAAA;;",
+  "names": []
+}
